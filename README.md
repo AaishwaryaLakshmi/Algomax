@@ -81,5 +81,5 @@ go run main.go
 Access the Application:
 Open your web browser and go to http://localhost:8080.
 
-ONCLUSION
+CONCLUSION
 This Learning Management System (LMS) is designed to be easily set up and run with common technologies. Follow the provided instructions to get the system running, and customize as needed for your specific environment and requirements.
