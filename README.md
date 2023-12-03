@@ -52,34 +52,5 @@ Simple CSS styling is applied for a clean and user-friendly interface.
 -JavaScript for Dynamic Behavior:
 JavaScript is employed to enhance user interactions, such as fetching and displaying course data dynamically.
 
-INSTRUCTIONS FOR SETTING UP AND RUNNING THE LMS
-
-Prerequisites:
-1. Golang:
-Install Golang.
-2. Cassandra:
-Install and set up Cassandra.
-
-Setup Steps:
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/lms.git
-cd lms
-Install Dependencies:
-
-bash
-Copy code
-go mod download
-Run the Application:
-
-bash
-Copy code
-go run main.go
-
-Access the Application:
-Open your web browser and go to http://localhost:8080.
-
 CONCLUSION
 This Learning Management System (LMS) is designed to be easily set up and run with common technologies. Follow the provided instructions to get the system running, and customize as needed for your specific environment and requirements.
